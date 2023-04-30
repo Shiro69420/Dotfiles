@@ -1,0 +1,18 @@
+[general]
+base_currency = NZD
+display = percentage
+
+#[bitcoin]
+#icon = 
+
+#[litecoin]
+#icon = 
+
+#[ardor]
+#icon = 
+
+#[ethereum]
+#icon = 
+
+[monero]
+icon = 
